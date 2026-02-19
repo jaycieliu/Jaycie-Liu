@@ -32,8 +32,8 @@ I’m happiest when I can take a problem from **messy data → clear metrics →
 
 | Project | What it does |
 |---|---|
-| **[YouTube Engagement Recommender (Offline Policy Simulator)](https://github.com/jaycieliu/youtube-trending-recommender)**<br>Predict next-day KPIs → simulate Top-K ranking policies → compare KPI trade-offs | Shows how ranking objectives can create KPI trade-offs even with good models.<br>Offline Top-K slate simulation + KPI trade-offs (completion vs watch time) |
-| **[Fraud Detection & Decisioning](https://github.com/jaycieliu/fraud-detection-decisioning)**<br>Fraud scoring → thresholding → decision rules → evaluation artifacts | End-to-end decisioning workflow focused on operational metrics and outcomes.<br>Scoring → thresholding → decision policy → evaluation artifacts |
+| **[YouTube Engagement Recommender (Offline Policy Simulator)](https://github.com/jaycieliu/youtube-trending-recommender)**<br>Predict next-day KPIs → simulate Top-K ranking policies → compare KPI trade-offs | Shows how ranking objectives can create KPI trade-offs even with good models. |
+| **[Fraud Detection & Decisioning](https://github.com/jaycieliu/fraud-detection-decisioning)**<br>Fraud scoring → thresholding → decision rules → evaluation artifacts | End-to-end decisioning workflow focused on operational metrics and outcomes. |
 
 ## 🧰 Tech Stack
 
