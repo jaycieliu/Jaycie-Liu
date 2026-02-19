@@ -33,11 +33,17 @@
 
 <hr/>
 
-### 📌 Currently
-- Building portfolio-quality end-to-end ML projects  
-- Improving model evaluation + decisioning logic  
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycieliu&layout=compact&cache_seconds=1800&hide_border=true" />
-</p>
+## 📌 Currently
+- Building **portfolio-quality, end-to-end ML systems** (data → modeling → evaluation → decision logic)
+- Exploring **ranking / policy evaluation** and **threshold-based decisioning** with reproducible experiments
+- Practicing **clean repo engineering**: reproducible notebooks, saved artifacts, and readable documentation
+
+### ✅ Highlights (evidence)
+- **YouTube Policy Simulator:** offline Top-K slate simulation + KPI trade-offs (completion vs watch time)  
+- **Fraud Decisioning:** scoring → thresholding → decision policy → evaluation artifacts  
+- Focus on **reproducibility**: pinned dependencies, deterministic seeds, saved figures/tables
+
+### 🎯 What I’m looking for
+- Data Science / Analytics / ML roles (internship / FT) where I can work on **modeling + evaluation + decisioning**
