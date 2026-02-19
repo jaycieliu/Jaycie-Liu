@@ -52,6 +52,4 @@
 </p>
 
 
-<p align="center">
-  <img src="./metrics.svg" />
-</p>
+![Metrics](./metrics.svg)
