@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Jaycie Liu (Zutong) 👋</h1>
 
-<p align="center">
-  <b>MSBA @ USC Marshall</b> · Data Science & Analytics · Python · SQL · ML
-</p>
 
 <p align="center">
   <a href="mailto:zutongli@usc.edu">Email</a> ·
