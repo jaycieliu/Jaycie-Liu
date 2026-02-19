@@ -3,7 +3,7 @@
 <p align="center">
   ✉️ <a href="mailto:zutongli@usc.edu"><b>Email</b></a>
   &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><b>LinkedIn</b></a>
+  💼 <a href="https://www.linkedin.com/in//"><b>LinkedIn</b></a>
   &nbsp;•&nbsp;
   💻 <a href="https://github.com/jaycieliu"><b>GitHub</b></a>
 </p>
