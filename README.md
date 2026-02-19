@@ -38,6 +38,6 @@
 - Improving model evaluation + decisioning logic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycieliu&layout=compact" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycieliu&layout=compact&cache_seconds=1800&theme=default&hide_border=true" />
 </p>
