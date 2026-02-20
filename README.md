@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaycie Liu (Zutong) 👋</h1>
 
 <p align="center">
-  ✉️ <a href="mailto:zutongli@usc.edu"><b>Email</b></a>
+  ✉️ <a href="mailto:jaycieliu@outlook.com"><b>Email</b></a>
   &nbsp;•&nbsp;
   💼 <a href="https://www.linkedin.com/in/jaycie-liu/"><b>LinkedIn</b></a>
   &nbsp;•&nbsp;
